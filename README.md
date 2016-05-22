@@ -1,1 +1,1 @@
-# spojcode
+Source code SPOJ
